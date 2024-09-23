@@ -1,6 +1,6 @@
 # Overview of Purview API
 
-# All Code Provided are samples and for testing and learning about using Purview's APIs. The Provided code is NOT MEANT for Production ready applications and do not follow best practices. Use at your own risk. 
+# All Code Provided are samples for testing and learning about using Purview's APIs. The Provided code is NOT MEANT for Production ready applications and do not follow best practices. Use at your own risk. 
 
 ### With Azure Purview's API, you can programmatically interact with and manage your data governance processes in Azure Purview. Here are key actions and use cases for the Azure Purview API:
 
